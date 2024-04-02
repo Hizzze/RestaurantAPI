@@ -31,3 +31,13 @@
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/obj/Debug/net7.0/RestaurantAPI.pdb
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/obj/Debug/net7.0/RestaurantAPI.genruntimeconfig.cache
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/obj/Debug/net7.0/ref/RestaurantAPI.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Humanizer.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Npgsql.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/System.CodeDom.dll

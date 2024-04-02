@@ -1,4 +1,5 @@
 using System.Collections;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using RestaurantAPI.Abstractions;
 
@@ -16,18 +17,24 @@ public class WeatherForecastController : ControllerBase
         _logger = logger;
         _service = service;
     }
-    
-    [HttpGet]
-    public IEnumerable<WeatherForecast> Get()
+
+    [HttpPost]
+    public ActionResult<string> Hello(string name)
     {
-        var result = _service.Get();
-        return result;
+        return NotFound($"Hello {name}");
     }
 
-    [HttpDelete]
-    public IActionResult Delete(int index)
+    [HttpPost("generate")]
+    public ActionResult<IEnumerable<WeatherForecast>> Generate([FromQuery]int count,[FromBody] TemperatureRequest tempC)
     {
-        var result = _service.Delete(index);
-        return result;
+        if (count < 0 || tempC.Max < tempC.Min)
+        {
+            return BadRequest();
+        }
+
+        var result = _service.Get(count, tempC.Min, tempC.Max);
+        return Ok(result);
     }
+
+
 }
