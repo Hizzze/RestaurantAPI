@@ -35,13 +35,6 @@ var app = builder.Build();
 
 app.Services.CreateScope().ServiceProvider.GetRequiredService<RestaurantSeed>().Seed();
 
-// using (var scope = app.Services.CreateScope())
-// {
-//     var services = scope.ServiceProvider;
-//     var seed = services.GetRequiredService<RestaurantSeed>();
-//     seed.Seed();
-// }
-
 
 if (app.Environment.IsDevelopment())
 {

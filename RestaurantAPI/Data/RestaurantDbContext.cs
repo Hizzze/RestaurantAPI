@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using RestaurantAPI.Models;
 
 namespace RestaurantAPI.Data
@@ -23,7 +24,16 @@ namespace RestaurantAPI.Data
             modelBuilder.Entity<Dish>()
                 .Property(d => d.Name)
                 .IsRequired();
-            
+
+            modelBuilder.Entity<Address>()
+                .Property(a => a.City)
+                .IsRequired()
+                .HasMaxLength(50);
+            modelBuilder.Entity<Address>()
+                .Property(a => a.Street)
+                .IsRequired()
+                .HasMaxLength(50);
+
         }
     }
 }
