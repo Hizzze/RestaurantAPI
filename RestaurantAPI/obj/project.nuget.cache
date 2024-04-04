@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "LmGe4e9oVhx304Jj2LJ154/hB9Lpc/dwqQVyrvr6YEIs5usgHjWPvnnL3g/be0SDyWivxOe2PdqJtCdaNH2uFQ==",
+  "dgSpecHash": "zaiqPxGKPFS3WFuE0WJEcn+RRljn0hCbBp2sPa8HrDR2TNp/+XHd/yx/I9sxTVgHm7a/JaRvm6L4ddWNsxT4OQ==",
   "success": true,
   "projectFilePath": "/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/vlad/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/vlad/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/microsoft.entityframeworkcore/7.0.17/microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
     "/Users/vlad/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.17/microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
     "/Users/vlad/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.17/microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
@@ -32,6 +35,7 @@
     "/Users/vlad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],

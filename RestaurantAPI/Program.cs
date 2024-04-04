@@ -1,9 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using RestaurantAPI;
-using RestaurantAPI.Abstractions;
-using RestaurantAPI.Controllers;
 using RestaurantAPI.Data;
 using System.Linq;
+using AutoMapper;
+using RestaurantAPI.Abstractions;
+using RestaurantAPI.Models;
+using RestaurantAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +17,11 @@ builder.Services.AddDbContext<RestaurantDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(RestaurantDbContext)));
 });
 
+builder.Services.AddScoped<IRestaurantService, RestaurantService>();
 builder.Services.AddScoped<RestaurantSeed>();
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
+
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,7 +29,6 @@ builder.Services.AddScoped<RestaurantSeed>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IWeatherForecastService, WeatherForecastService>();
 
 var app = builder.Build();
 

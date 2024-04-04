@@ -41,3 +41,5 @@
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Npgsql.dll
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/AutoMapper.dll
+/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
