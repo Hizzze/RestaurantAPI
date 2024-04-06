@@ -1,0 +1,275 @@
+2024-04-04 22:48:54.0982 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:48:54.1160 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:48:54.1189 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-04-04 22:48:54.1233 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:48:54.1935 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=47, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:48:54.1993 Info Configuration initialized.
+2024-04-04 22:49:51.7373 Info Shutdown() called. Logger closing...
+2024-04-04 22:49:51.7384 Info Closing old configuration.
+2024-04-04 22:49:51.7506 Info Logger has been closed down.
+2024-04-04 22:49:51.8315 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 22:49:51.8315 Info LogFactory has been closed.
+2024-04-04 22:49:53.1693 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:49:53.1866 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:49:53.1892 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-04-04 22:49:53.1932 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:49:53.2726 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=47, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:49:53.2789 Info Configuration initialized.
+2024-04-04 22:50:35.2005 Info Shutdown() called. Logger closing...
+2024-04-04 22:50:35.2005 Info Closing old configuration.
+2024-04-04 22:50:35.2110 Info Logger has been closed down.
+2024-04-04 22:50:35.2985 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 22:50:35.2985 Info LogFactory has been closed.
+2024-04-04 22:51:08.6015 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:51:08.6195 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:51:08.6224 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-04-04 22:51:08.6269 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:51:08.6963 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=47, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:51:08.7022 Info Configuration initialized.
+2024-04-04 22:52:37.5221 Info Shutdown() called. Logger closing...
+2024-04-04 22:52:37.5234 Info Closing old configuration.
+2024-04-04 22:52:37.5343 Info Logger has been closed down.
+2024-04-04 22:52:37.6219 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 22:52:37.6230 Info LogFactory has been closed.
+2024-04-04 22:52:38.8973 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:52:38.9136 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:52:38.9162 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-04-04 22:52:38.9200 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:52:38.9920 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=47, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:52:38.9979 Info Configuration initialized.
+2024-04-04 22:55:39.6934 Info Shutdown() called. Logger closing...
+2024-04-04 22:55:39.6949 Info Closing old configuration.
+2024-04-04 22:55:39.7093 Info Logger has been closed down.
+2024-04-04 22:55:39.7852 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 22:55:39.7858 Info LogFactory has been closed.
+2024-04-04 22:55:41.0046 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:55:41.0207 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:55:41.0235 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-04-04 22:55:41.0280 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:55:41.1038 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=49, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:55:41.1098 Info Configuration initialized.
+2024-04-04 22:57:33.8378 Info Shutdown() called. Logger closing...
+2024-04-04 22:57:33.8393 Info Closing old configuration.
+2024-04-04 22:57:33.8519 Info Logger has been closed down.
+2024-04-04 22:57:33.9359 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 22:57:33.9359 Info LogFactory has been closed.
+2024-04-04 22:57:35.1115 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 22:57:35.1277 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 22:57:35.1337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 22:57:35.2072 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 22:57:35.2099 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-04 22:57:35.2137 Info Configuration initialized.
+2024-04-04 23:00:04.9498 Info Shutdown() called. Logger closing...
+2024-04-04 23:00:04.9512 Info Closing old configuration.
+2024-04-04 23:00:04.9618 Info Logger has been closed down.
+2024-04-04 23:00:05.0296 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 23:00:05.0304 Info LogFactory has been closed.
+2024-04-04 23:00:06.3933 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 23:00:06.4097 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 23:00:06.4158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 23:00:06.5066 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 23:00:06.5089 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-04 23:00:06.5128 Info Configuration initialized.
+2024-04-04 23:00:25.1370 Info Shutdown() called. Logger closing...
+2024-04-04 23:00:25.1381 Info Closing old configuration.
+2024-04-04 23:00:25.1486 Info Logger has been closed down.
+2024-04-04 23:00:25.2408 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 23:00:25.2414 Info LogFactory has been closed.
+2024-04-04 23:02:13.0416 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-04 23:02:13.0582 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-04 23:02:13.0650 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-04 23:02:13.1389 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 23:02:13.1413 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-04 23:02:13.1452 Info Configuration initialized.
+2024-04-04 23:02:13.2700 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-04 23:03:05.7297 Info Shutdown() called. Logger closing...
+2024-04-04 23:03:05.7307 Info Closing old configuration.
+2024-04-04 23:03:05.7342 Info Logger has been closed down.
+2024-04-06 18:51:31.9165 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 18:51:31.9545 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 18:51:31.9667 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 18:51:32.0582 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 18:51:32.0608 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 18:51:32.0650 Info Configuration initialized.
+2024-04-06 18:51:32.2334 Info Validating config: TargetNames=ownFile-web, ConfigItems=46, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 18:56:56.6571 Info Shutdown() called. Logger closing...
+2024-04-06 18:56:56.6584 Info Closing old configuration.
+2024-04-06 18:56:56.6634 Info Logger has been closed down.
+2024-04-06 18:56:58.5182 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 18:56:58.5359 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 18:56:58.5364 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 18:56:58.5428 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 18:56:58.6311 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 18:56:58.6337 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 18:56:58.6401 Info Configuration initialized.
+2024-04-06 18:56:58.7525 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 18:57:41.1227 Info Shutdown() called. Logger closing...
+2024-04-06 18:57:41.1227 Info Closing old configuration.
+2024-04-06 18:57:41.1281 Info Logger has been closed down.
+2024-04-06 19:09:07.8928 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:09:07.9100 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:09:07.9104 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:09:07.9166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:09:07.9906 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:09:07.9932 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:09:07.9975 Info Configuration initialized.
+2024-04-06 19:09:08.1389 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:10:29.1878 Info Shutdown() called. Logger closing...
+2024-04-06 19:10:29.1883 Info Closing old configuration.
+2024-04-06 19:10:29.1922 Info Logger has been closed down.
+2024-04-06 19:23:34.2267 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:23:34.2489 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:23:34.2493 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:23:34.2589 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:23:34.3873 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:23:34.3900 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:23:34.3950 Info Configuration initialized.
+2024-04-06 19:23:34.5489 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:25:22.0681 Info Shutdown() called. Logger closing...
+2024-04-06 19:25:22.0687 Info Closing old configuration.
+2024-04-06 19:25:22.0772 Info Logger has been closed down.
+2024-04-06 19:25:28.6236 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:25:28.6508 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:25:28.6513 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:25:28.6845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:25:28.7705 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:25:28.7766 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:25:28.7837 Info Configuration initialized.
+2024-04-06 19:25:29.3839 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:27:04.8080 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:27:04.8256 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:27:04.8260 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:27:04.8333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:27:04.9153 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:27:04.9177 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:27:04.9219 Info Configuration initialized.
+2024-04-06 19:27:05.0331 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:29:22.5142 Info Shutdown() called. Logger closing...
+2024-04-06 19:29:22.5142 Info Closing old configuration.
+2024-04-06 19:29:22.5190 Info Logger has been closed down.
+2024-04-06 19:29:23.9316 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:29:23.9536 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:29:23.9547 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:29:23.9633 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:29:24.0456 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:29:24.0483 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:29:24.0524 Info Configuration initialized.
+2024-04-06 19:29:24.1652 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:29:43.7409 Info Shutdown() called. Logger closing...
+2024-04-06 19:29:43.7413 Info Closing old configuration.
+2024-04-06 19:29:43.7453 Info Logger has been closed down.
+2024-04-06 19:30:56.7407 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:30:56.7577 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:30:56.7580 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:30:56.7640 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:30:56.8456 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:30:56.8480 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:30:56.8524 Info Configuration initialized.
+2024-04-06 19:30:56.9816 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:31:22.3507 Info Shutdown() called. Logger closing...
+2024-04-06 19:31:22.3511 Info Closing old configuration.
+2024-04-06 19:31:22.3566 Info Logger has been closed down.
+2024-04-06 19:34:08.6333 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:34:08.6501 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:34:08.6501 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:34:08.6563 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:34:08.7285 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:34:08.7311 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:34:08.7350 Info Configuration initialized.
+2024-04-06 19:34:08.8618 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:35:17.6409 Info Shutdown() called. Logger closing...
+2024-04-06 19:35:17.6409 Info Closing old configuration.
+2024-04-06 19:35:17.6451 Info Logger has been closed down.
+2024-04-06 19:35:18.9407 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:35:18.9579 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:35:18.9579 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:35:18.9641 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:35:19.0490 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:35:19.0517 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:35:19.0558 Info Configuration initialized.
+2024-04-06 19:35:19.1663 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:40:24.5477 Info Shutdown() called. Logger closing...
+2024-04-06 19:40:24.5489 Info Closing old configuration.
+2024-04-06 19:40:24.5550 Info Logger has been closed down.
+2024-04-06 19:40:25.9634 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:40:25.9811 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:40:25.9811 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:40:25.9877 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:40:26.0696 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:40:26.0720 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:40:26.0759 Info Configuration initialized.
+2024-04-06 19:40:26.1944 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:40:53.1267 Info Shutdown() called. Logger closing...
+2024-04-06 19:40:53.1272 Info Closing old configuration.
+2024-04-06 19:40:53.1327 Info Logger has been closed down.
+2024-04-06 19:40:58.0024 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:40:58.0263 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:40:58.0263 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:40:58.0481 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:40:58.1759 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:40:58.1789 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:40:58.1839 Info Configuration initialized.
+2024-04-06 19:40:58.4287 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:43:06.2374 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:43:06.2538 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:43:06.2538 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:43:06.2599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:43:06.3409 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:43:06.3433 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:43:06.3473 Info Configuration initialized.
+2024-04-06 19:43:06.4756 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:46:36.7284 Info Shutdown() called. Logger closing...
+2024-04-06 19:46:36.7290 Info Closing old configuration.
+2024-04-06 19:46:36.7330 Info Logger has been closed down.
+2024-04-06 19:46:38.2474 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:46:38.2691 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:46:38.2691 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:46:38.2813 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:46:38.3762 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:46:38.3791 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:46:38.3832 Info Configuration initialized.
+2024-04-06 19:46:38.5385 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:49:24.8442 Info Shutdown() called. Logger closing...
+2024-04-06 19:49:24.8446 Info Closing old configuration.
+2024-04-06 19:49:24.8488 Info Logger has been closed down.
+2024-04-06 19:49:26.1177 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 19:49:26.1341 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 19:49:26.1345 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 19:49:26.1405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 19:49:26.2242 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:49:26.2266 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 19:49:26.2316 Info Configuration initialized.
+2024-04-06 19:49:26.3379 Info Validating config: TargetNames=ownFile-web, exceptions, ConfigItems=66, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 19:49:48.5655 Info Shutdown() called. Logger closing...
+2024-04-06 19:49:48.5661 Info Closing old configuration.
+2024-04-06 19:49:48.5711 Info Logger has been closed down.
+2024-04-06 20:07:58.7270 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 20:07:58.7442 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 20:07:58.7442 Info Registered target NLog.Targets.FileTarget(Name=time)
+2024-04-06 20:07:58.7442 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 20:07:58.7509 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 20:07:58.8288 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 20:07:58.8329 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 20:07:58.8376 Info Configuration initialized.
+2024-04-06 20:07:58.9643 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 20:09:59.8644 Info Shutdown() called. Logger closing...
+2024-04-06 20:09:59.8649 Info Closing old configuration.
+2024-04-06 20:09:59.8702 Info Logger has been closed down.
+2024-04-06 20:10:15.3660 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 20:10:15.3915 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 20:10:15.3915 Info Registered target NLog.Targets.FileTarget(Name=time)
+2024-04-06 20:10:15.3915 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 20:10:15.4172 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 20:10:15.5579 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 20:10:15.5606 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 20:10:15.5657 Info Configuration initialized.
+2024-04-06 20:10:15.8273 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 20:12:39.2810 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-06 20:12:39.3056 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2024-04-06 20:12:39.3056 Info Registered target NLog.Targets.FileTarget(Name=time)
+2024-04-06 20:12:39.3063 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-06 20:12:39.3298 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2024-04-06 20:12:39.4080 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config
+2024-04-06 20:12:39.4105 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2024-04-06 20:12:39.4150 Info Configuration initialized.
+2024-04-06 20:12:39.6722 Info Validating config: TargetNames=ownFile-web, exceptions, time, ConfigItems=86, FilePath=/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/bin/Debug/net7.0/NLog.config

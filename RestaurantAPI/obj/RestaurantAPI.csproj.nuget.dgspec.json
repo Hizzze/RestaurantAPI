@@ -58,6 +58,14 @@
               "target": "Package",
               "version": "[7.0.17, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.5, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.5, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.11, )"

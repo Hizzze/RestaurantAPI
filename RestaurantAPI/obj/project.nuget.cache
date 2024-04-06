@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zaiqPxGKPFS3WFuE0WJEcn+RRljn0hCbBp2sPa8HrDR2TNp/+XHd/yx/I9sxTVgHm7a/JaRvm6L4ddWNsxT4OQ==",
+  "dgSpecHash": "WFRKm2boHdPpRPT7d5JSUC0Kc+ju/rR68hMgf9WKRoRb28xu1SaqxwD23XQKK0EsZVnndHKLK/gveUU76Cn3Pw==",
   "success": true,
   "projectFilePath": "/Users/vlad/RiderProjects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,9 @@
     "/Users/vlad/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/vlad/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/vlad/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/nlog/5.2.5/nlog.5.2.5.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/nlog.extensions.logging/5.3.5/nlog.extensions.logging.5.3.5.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/nlog.web.aspnetcore/5.3.5/nlog.web.aspnetcore.5.3.5.nupkg.sha512",
     "/Users/vlad/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512",
     "/Users/vlad/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.11/npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "/Users/vlad/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

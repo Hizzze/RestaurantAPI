@@ -35,8 +35,6 @@ public class RestaurantController : ControllerBase
     public ActionResult<RestaurantDto> GetById(int id)
     {
         var result = _restaurantService.GetById(id);
-
-        if (result is null) return NotFound();
         
         return Ok(result);
     }
@@ -45,12 +43,6 @@ public class RestaurantController : ControllerBase
     [HttpPost]
     public ActionResult CreateRestaurant([FromBody] CreateRestaurantDto dto)
     {
-
-        if (!ModelState.IsValid)
-        {
-            return BadRequest(ModelState);
-        }
-        
         var id = _restaurantService.Create(dto);
         return Created($"/api/restaurant{id}", null);
 
@@ -59,20 +51,14 @@ public class RestaurantController : ControllerBase
     [HttpDelete("{id}")]
     public ActionResult Delete(int id)
     {
-        var IsDeleted = _restaurantService.Delete(id);
-
-        if (IsDeleted) return NoContent();
-        return NotFound();
+        _restaurantService.Delete(id);
+        return NoContent();
     }
 
     [HttpPut("{id}")]
     public ActionResult Update(UpdateRestaurantDto dto, int id)
     {
-
-        if (!ModelState.IsValid) return BadRequest(ModelState);
-        
-        var isUpdated = _restaurantService.Update(dto,id);
-        if (isUpdated) return Ok();
-        return NotFound();
+        _restaurantService.Update(dto,id);
+        return Ok();
     }
 }
